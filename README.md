@@ -1,5 +1,7 @@
 Hey there! I'm Deep.
 
+This page is under construction, come back soon for some cool updates!
+
 ### 🚀 Featured Projects
 🖼️ Lorem Ipsum
 
