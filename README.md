@@ -1,10 +1,19 @@
 # 👋 Hi, I’m Deepjyoti Saha!
 
 ## 📌 Summary
-Short 1–2 sentence summary of who you are and what you build.
 
-- 🔭 Currently: Agents Ecosystem at Microsoft  
-- 🌱 Skills: <topics you're learning>  
+- 🔭 Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/ecosystem) & [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) at Microsoft  
+## 🌱 Skills
+![Product Management](https://img.shields.io/badge/Product%20Management-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Ecosystems](https://img.shields.io/badge/Ecosystems-2ECC71?style=for-the-badge&logo=treehouse&logoColor=white)
+![Growth & Adoption](https://img.shields.io/badge/Growth%20%26%20Adoption-F39C12?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Enterprise Workflows](https://img.shields.io/badge/Enterprise%20Workflows-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F61?style=for-the-badge&logo=robotframework&logoColor=white)
+![LLMs & Gen AI](https://img.shields.io/badge/LLMs%20%26%20Gen%20AI-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF1493?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+
 - 👯 Certifications: <collaboration types>  
 
 ## 🌐 Socials:
