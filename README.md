@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
-- 👯 Certifications: <collaboration types>  
+- 👯 Certifications: [EAG & EVA @ The School of AI](https://theschoolof.ai/#programs), Retention, Engagement & Growth @ Reforge
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyotisaha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepjyoti.saha@gmail.com) 
@@ -285,20 +285,5 @@ https://github.com/deepjyotisaha85/eva4/tree/master/session15
 ---
 
 
-
-## 📫 Contact
-- Email: <your-email@example.com>  
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin>  
-- Twitter: https://twitter.com/<your-handle>
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=default)
-
-## 📌 Pinned Repos
-Pin repositories in your GitHub profile; mirror the same selection here with short notes.
-
-## 🤝 Want to collaborate?
-Open an issue on any repo or message me on LinkedIn.
-
 ---
-_Last updated: YYYY-MM-DD_
+Last updated: 22nd-Nov-2025
