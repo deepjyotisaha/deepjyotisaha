@@ -15,6 +15,86 @@ Each project includes a brief, demo video with screenshot, and the repository li
 
 ---
 
+---
+
+### EAG18 — Agentic Query Assistant System 🧠
+- Brief: A multi-agent AI system that processes complex user queries via a NetworkX-based execution graph and a coordinated pipeline of specialized agents, external tools, and MCP servers.
+
+🏗️ System Architecture
+- Core Components:
+  - NetworkX Graph Engine — manages execution flow and dependencies  
+  - Multi-Agent Pipeline — ~10 specialized agents coordinating tasks (planning, retrieval, codegen, analysis)  
+  - MCP Servers — external tool integrations (e.g., Gmail, RAG, compute)  
+  - Rich CLI — interactive command-line experience  
+  - Web API — REST endpoints for integration
+
+🔁 Execution Flow
+User Query → File Upload → File Profiling → Planning → Multi-Agent Execution → Result Analysis → Output
+
+🎥 Demo Video: [Watch demo](https://www.youtube.com/watch?v=A0kznksbOiU)  
+![Demo screenshot](https://img.youtube.com/vi/A0kznksbOiU/0.jpg)
+
+📝 Sample Prompts
+- Research & Analysis:
+  - "You are a stock researcher, prepare a very detailed and comprehensive report on Asian Paints."
+  - "Conduct a basic market research on electric vehicle trends and create a detailed analysis report."
+- Coding:
+  - "Create a modern Tic Tac Toe game with HTML, CSS, and JavaScript."
+- File Analysis:
+  - "Analyze the sales data provided in the file and prepare a report."
+- (Experiment with your own complex queries combining files, web research, and code generation.)
+
+🔗 Repository: https://github.com/deepjyotisaha/eag18/tree/master/code
+
+### Browser Use Agent — Automate complex browser workflows
+- Brief: A browser automation agent that performs multi-step web tasks via a Chrome extension/front-end and backend orchestration. Useful for data extraction, automated form-filling, navigation, and scripted browsing workflows.
+- Features:
+  - Automates navigation, clicks, form entry and data scraping
+  - Handles multi-step workflows and conditional logic
+  - Captures screenshots and session traces for debugging
+  - Integrates with backend services for RAG, analysis and reporting
+  - Provides real-time progress updates to the user
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=1jD2-7kZbGs)  
+  ![Demo screenshot](https://img.youtube.com/vi/1jD2-7kZbGs/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag15/tree/master/code
+
+---
+
+### 🤖 Computer Use Agent — Automates tasks on your desktop via natural language
+- Brief: A sophisticated AI agent that interacts with desktop applications using computer vision and natural language commands to perform multi-step tasks reliably.
+- Sample Prompt:
+  > Open notepad, type "Hello World", open a new tab and type "I am Computer use agent!" and then exit
+- Capabilities demonstrated:
+  - Launch applications (e.g., Notepad)
+  - Type text across multiple tabs/windows
+  - Navigate application menus (File → New, Exit)
+  - Click menu items and interact with UI controls
+  - Orchestrate multi-step workflows and exit cleanly
+- Features:
+  - Computer vision + NLP for UI understanding
+  - Action planning and deterministic UI interactions
+  - Error handling and retries for robust automation
+  - Extensible to new apps and workflows
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=aYlVvutoub4)  
+  ![Demo screenshot](https://img.youtube.com/vi/aYlVvutoub4/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag14a/tree/master/computer_agent
+
+---
+
+### Multi‑channel Agent — Telegram + Gmail via MCP servers
+- Brief: A multi-channel agent that interacts with users over Telegram (via an MCP SSE server) and delivers final reports to users via a Gmail MCP server. Designed for conversational workflows and automated report delivery.
+- Features:
+  - Two-way interaction over Telegram (real-time SSE)
+  - MCP SSE server implementation for Telegram integration
+  - Gmail MCP server to email final reports to users
+  - Orchestrates multi-step agent workflows and delivers summaries/reports
+  - Suitable for alerts, task execution, and automated summaries
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=AViGOt94KQ4)  
+  ![Demo screenshot](https://img.youtube.com/vi/AViGOt94KQ4/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag8/tree/master/agent_e8
+
+---
+
 ### 4. **Stock Research Assistant** — AI-powered stock research assistant
 - Brief: An AI-powered assistant that combines a Chrome extension side panel with a backend for real-time stock analysis and insights, helping investors and analysts make informed decisions.
 - Sample Queries:
