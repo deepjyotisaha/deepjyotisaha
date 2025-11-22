@@ -18,10 +18,6 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyotisaha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepjyoti.saha@gmail.com) 
 
 ## 📚 Table of Contents
-
-- Summary
-- Skills
-- Certifications
 - Featured Projects
   - Agentic AI
     - ShadowBot
@@ -34,8 +30,6 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
   - Computer Vision
     - EVA4-15 (Mask & Depthmap Prediction)
     - YoloV3 (Custom Object Detection)
-- Notes & next steps
-
 ---
 
 ## 🚀 Featured Projects
