@@ -15,6 +15,26 @@ Each project includes a brief, demo video with screenshot, and the repository li
 
 ---
 
+### 4. **Stock Research Assistant** — AI-powered stock research assistant
+- Brief: An AI-powered assistant that combines a Chrome extension side panel with a backend for real-time stock analysis and insights, helping investors and analysts make informed decisions.
+- Sample Queries:
+  - "Show me key financial figures for Rainbow Hospitals"
+  - "What are the growth drivers for healthcare industry"
+  - "Summarize all the financial information you have obtained into a well formatted email ... send it to name@example.com"
+  - "Compare the financial performance of Narayana Health and Rainbow Hospitals ... conclude who is a better investment bet"
+- Features:
+  - Chrome Extension Interface: convenient side panel for quick access
+  - Interactive Queries: NLP-powered natural-language stock questions
+  - Live Updates: real-time progress and status shown to the end user
+  - Document Search: RAG (Retrieval-Augmented Generation) based retrieval for relevant stock information
+  - Multi-Server Architecture: separate servers for RAG, math/analysis, and Gmail integration
+  - Automated Workflows: generate, format, and optionally send result emails when analysis is final
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=ZpvHxjgI3KE)  
+  ![Demo screenshot](https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag7/tree/master/stock_research
+
+---
+
 ### 3. **Gmail Newsletter Digest Extension** — Automated newsletter summarization & digest
 - Brief: A Chrome extension with a Python backend that scans your Gmail inbox, identifies newsletters, summarizes their content using Gemini AI, and compiles a tidy markdown digest for easy reading and archiving.
 - Features:
