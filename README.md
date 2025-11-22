@@ -13,7 +13,30 @@ Short 1–2 sentence summary of who you are and what you build.
 ## 🚀 Featured Projects
 Each project includes a brief, demo video with screenshot, and the repository link.
 
-### **Gmail Triage Extension** — Manage unread Gmail efficiently
+
+---
+
+### 2. **Email Triage Assistant** — Intelligent Gmail categorization using Gemini AI
+- Brief: A Chrome extension that helps you manage your inbox by automatically categorizing unread emails using Gemini AI. It reduces inbox clutter by classifying messages into actionable buckets so you can focus on what matters.
+- Features:
+  - Automatically analyzes unread emails
+  - Categorizes emails into:
+    - Delete: Promotional and non-essential emails
+    - Read: Notifications and updates
+    - Important: Personal and urgent emails
+  - Uses Gemini AI for intelligent email categorization
+  - Customizable rules for email categorization
+  - OAuth2 authentication with Gmail
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=m1kAjD7gnrI)  
+  ![Demo screenshot](https://img.youtube.com/vi/m1kAjD7gnrI/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag2
+
+---
+
+---
+
+
+### **Gmail Extension for Bulk Actions** — Manage unread Gmail efficiently
 - Brief: A browser extension that helps you manage unread Gmail emails quickly and safely. Core features include viewing all unread emails, marking selected emails as important, marking selected emails as read, and deleting remaining unread emails.
 - Demo Video: [Watch demo](https://www.youtube.com/watch?v=Qp4ok4VrMGU)  
   ![Demo screenshot](https://img.youtube.com/vi/Qp4ok4VrMGU/0.jpg)
