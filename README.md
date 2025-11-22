@@ -13,6 +13,21 @@ Short 1–2 sentence summary of who you are and what you build.
 ## 🚀 Featured Projects
 Each project includes a brief, demo video with screenshot, and the repository link.
 
+---
+
+### 3. **Gmail Newsletter Digest Extension** — Automated newsletter summarization & digest
+- Brief: A Chrome extension with a Python backend that scans your Gmail inbox, identifies newsletters, summarizes their content using Gemini AI, and compiles a tidy markdown digest for easy reading and archiving.
+- Features:
+  - 🔍 Automatically identifies newsletters in your Gmail inbox
+  - 📝 Generates concise summaries of newsletter content
+  - 📋 Creates a well-formatted markdown digest
+  - 🔒 Secure Gmail API integration (OAuth2)
+  - 🤖 Powered by Google's Gemini AI for intelligent processing
+  - 📊 Configurable number of emails to process
+  - 🔄 Real-time processing and updates
+- Demo Video: [Watch demo](https://www.youtube.com/watch?v=yuTBrcswA1M)  
+  ![Demo screenshot](https://img.youtube.com/vi/yuTBrcswA1M/0.jpg)
+- Repository: https://github.com/deepjyotisaha/eag3
 
 ---
 
@@ -32,9 +47,6 @@ Each project includes a brief, demo video with screenshot, and the repository li
 - Repository: https://github.com/deepjyotisaha/eag2
 
 ---
-
----
-
 
 ### **Gmail Extension for Bulk Actions** — Manage unread Gmail efficiently
 - Brief: A browser extension that helps you manage unread Gmail emails quickly and safely. Core features include viewing all unread emails, marking selected emails as important, marking selected emails as read, and deleting remaining unread emails.
