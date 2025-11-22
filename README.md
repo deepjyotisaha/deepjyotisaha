@@ -17,24 +17,29 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyotisaha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepjyoti.saha@gmail.com) 
 
-## 📚 Featured Projects
-- Agentic AI
-    - ShadowBot
-    - EAG18
-    - Browser Use Agent
-    - Computer Use Agent
-    - Multi‑channel Agent
-    - Stock Research Assistant
-    - Gmail Newsletter Digest / Triage projects
-- Computer Vision
-    - EVA4-15 (Mask & Depthmap Prediction)
-    - YoloV3 (Custom Object Detection)
+## 📚 Table of Contents
+
+- [Summary](#summary)
+- [Skills](#skills)
+- [Certifications](#certifications)
+- Featured Projects
+  - [Agentic AI](#agentic-ai)
+    - [ShadowBot — Undetectable AI Overlay for Interviews & Meetings](#shadowbot-undetectable-ai-overlay-for-interviews-and-meetings)
+    - [EAG18 — Agentic Query Assistant System](#eag18-agentic-query-assistant-system)
+    - [Browser Use Agent](#browser-use-agent)
+    - [Computer Use Agent](#computer-use-agent)
+    - [Multi‑channel Agent — Telegram + Gmail](#multi-channel-agent-telegram-gmail)
+    - [Stock Research Assistant](#stock-research-assistant)
+    - [Gmail Newsletter Digest Extension](#gmail-newsletter-digest-extension)
+    - [Email Triage Assistant](#email-triage-assistant)
+    - [Gmail Extension for Bulk Actions](#gmail-extension-for-bulk-actions)
+  - [Computer Vision](#computer-vision)
+    - [EVA4-15 — Mask & Depthmap Prediction](#eva4-15-mask-and-depthmap-prediction)
+    - [YoloV3 — Custom Object Detection](#yolov3-custom-object-detection)
+- [Notes & next steps](#notes--next-steps)
+
 ---
 
-## 🚀 Featured Projects
-Each project includes a brief, demo video with screenshot, and the repository link.
-
----
 ## 🚀 Agentic AI
 Each project: short description, demo video (thumbnail), repository link.
 
