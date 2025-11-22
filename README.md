@@ -15,6 +15,54 @@ Each project includes a brief, demo video with screenshot, and the repository li
 
 ---
 
+### Agentic AI
+---
+
+### The Undetectable AI Overlay for Interviews & Meetings — Capstone (ShadowBot)
+- Brief: Real‑time, transparent overlay that offers suggestions, smart notes, and instant help during interviews and meetings without breaking conversational flow. Built as the EAG‑V1 capstone project for The School of AI.
+- Capstone: EAG‑V1 — The School of AI
+- Team:
+  - Saish Shetty
+  - Himank Jain
+  - Soma Korada
+  - Deepjyoti Saha
+
+🔗 Links  
+- Demo: https://youtu.be/J-dY5hfeac4  
+- Website: https://shettysaish20.github.io/ShadowBot/  
+- Repository: https://github.com/deepjyotisaha/eag20/tree/master/ShadowBot-main
+
+⚙️ Supported Platforms
+- Windows, macOS
+
+📚 Table of Contents (project doc)
+- Project Overview  
+- Application Features  
+- Functionalities  
+- Tech Stack  
+- Installation & Setup  
+- Runtime Flow (High Level)  
+- Architecture & Directory Guide  
+- Agents & Profiles  
+- Prompts & Prompt Engineering  
+- Extending the System  
+- Roadmap (Potential Enhancements)  
+- Contributing
+
+🚀 Key Highlights
+- Graph‑first execution engine (NetworkX) for explicit reasoning flow visualization & introspection.  
+- Multi‑Agent role specialization (Planner / Retriever / Thinker / Coder / Distiller / Clarifier / QA / Scheduler / Formatter / Decision / Tooling) coordinated via AgentLoop4.  
+- Multi‑MCP (Model Context Protocol) servers for tools, retrieval, and browser search.  
+- Dynamic model configuration and runtime Gemini API key injection (no static secrets at cold start).  
+- Unified context management with persistent session graph and extensible profiles to tune persona, tone, and domain behavior.  
+- Designed for research and production‑grade extensibility: add tools, plug new LLM providers, extend agent roles or the execution graph.
+
+📦 Tech Stack (examples)
+- Orchestration: Python, NetworkX, AgentLoop4  
+- Frontend / Overlay: Electron / native overlay + JS  
+- Models / AI: Gemini API integration, local/remote LLM adapters  
+- Integrations: MCP servers, OAuth, telemetry
+
 ---
 
 ### EAG18 — Agentic Query Assistant System 🧠
@@ -155,6 +203,79 @@ User Query → File Upload → File Profiling → Planning → Multi-Agent Execu
 - Repository: https://github.com/deepjyotisaha/eag1
 
 ---
+
+## Computer Vision
+---
+
+### EVA4-15 — Mask & Depthmap Prediction 🖼️
+- Submitted by: Deepjyoti Saha  
+- Contact / Canvas ID: deepjyoti.saha@gmail.com
+
+#### Overview
+A deep neural network that predicts output images (foreground mask and depthmap) from two inputs: (1) an image with a foreground object over a background scene, and (2) the background-only image. The model learns to generate the object mask and a corresponding depthmap.
+
+#### Usage
+Download the final model file from the project assets (Predict Mask and Depthmap Model Download Link)
+
+Python API:
+```python
+from utils import predict
+
+# arguments:
+# modelpath - absolute path to model file
+# filepath  - absolute path to folder with test images
+# bg        - filename for background image
+# image     - filename for image with foreground
+
+predict.predict_images(modelpath, filepath, bg, image)
+```
+
+Sample usage (example):
+```python
+from utils import predict
+
+modelpath = "/abs/path/to/model.pth"
+test_folder = "/abs/path/to/test_images"
+bg_file = "background_01.jpg"
+img_file = "scene_with_obj_01.jpg"
+
+predict.predict_images(modelpath, test_folder, bg_file, img_file)
+```
+
+#### Results (sample)
+| Epochs | Mask Dice Score | Depthmap Dice Score |
+|--------:|----------------:|--------------------:|
+| 28     | 0.91            | 0.43                |
+
+The following predicted images were generated from unseen test inputs: Background (Input) → Image (Input) → Predicted Mask → Predicted Depthmap.
+
+#### Solution & Approach
+- Problem: Predict foreground object mask and per-pixel depthmap given (image+background) and (background-only) pairs.
+- Model: ResNet-inspired encoder with dual heads (one head for mask, one for depthmap).
+- Losses: Separate, task-appropriate loss functions for mask and depth outputs (e.g., Dice / BCE for mask, L1/L2 or custom loss for depth).
+- Training: Joint training of shared encoder with two heads; augmentation and regularization applied to improve generalization.
+
+#### Repository
+https://github.com/deepjyotisaha85/eva4/tree/master/session15
+
+### YoloV3 — Custom Object Detection (Jet Fighters, Dusty, Battle Tanks)
+- Brief: Trained YoloV3 models on custom datasets to detect aircraft (fighter jets, Dusty), aircraft carriers, and battle tanks. Includes annotated results and demo videos showing detection on real videos.
+- Assets:
+  - Annotated image (OpenCV YoloV3): https://github.com/deepjyotisaha85/eva4/blob/master/session13/opencvyolov3/table_annotated.png
+- Models / Training:
+  - Trained one YoloV3 model to detect Jet Fighters, Dusty, and Aircraft Carrier (single dataset).
+  - Trained a separate YoloV3 model for Battle Tank detection.
+- Demo Videos:
+  - Dusty & Fighter Jet Detection (Video 1): https://www.youtube.com/watch?v=eJLIq9bR88Q  
+  - Dusty & Fighter Jet Detection (Video 2): https://www.youtube.com/watch?v=LbknBvu4I2g  
+  - Battle Tank Detection (Republic Day Parade): https://www.youtube.com/watch?v=NiwNiGO4ud8
+- Repository: https://github.com/deepjyotisaha85/eva4
+
+
+
+---
+
+
 
 ## 📫 Contact
 - Email: <your-email@example.com>  
