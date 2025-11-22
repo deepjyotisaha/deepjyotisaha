@@ -17,6 +17,27 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyotisaha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepjyoti.saha@gmail.com) 
 
+## 📚 Table of Contents
+
+- Summary
+- Skills
+- Certifications
+- Featured Projects
+  - Agentic AI
+    - ShadowBot
+    - EAG18
+    - Browser Use Agent
+    - Computer Use Agent
+    - Multi‑channel Agent
+    - Stock Research Assistant
+    - Gmail Newsletter Digest / Triage projects
+  - Computer Vision
+    - EVA4-15 (Mask & Depthmap Prediction)
+    - YoloV3 (Custom Object Detection)
+- Notes & next steps
+
+---
+
 ## 🚀 Featured Projects
 Each project includes a brief, demo video with screenshot, and the repository link.
 
