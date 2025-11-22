@@ -1,21 +1,18 @@
 # 👋 Hi, I’m Deepjyoti Saha!
 
 ## 📌 Summary
-
-🔭 Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/ecosystem) & [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) at Microsoft
+Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/ecosystem) & [Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio) at Microsoft
 
 ## 🌱 Skills
 
-[![Product Management](https://img.shields.io/badge/Product%20Management-0078D7?logo=azuredevops&logoColor=white)](https://www.linkedin.com) [![Ecosystems](https://img.shields.io/badge/Ecosystems-2ECC71?logo=treehouse&logoColor=white)](https://www.linkedin.com) [![Growth & Adoption](https://img.shields.io/badge/Growth%20%26%20Adoption-F39C12?logo=chartdotjs&logoColor=white)](https://www.linkedin.com) [![Enterprise Workflows](https://img.shields.io/badge/Enterprise%20Workflows-8E44AD?logo=microsoft&logoColor=white)](https://www.linkedin.com)  
-[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F61?logo=robotframework&logoColor=white)](https://github.com) [![LLMs & Gen AI](https://img.shields.io/badge/LLMs%20%26%20Gen%20AI-00BFFF?logo=openai&logoColor=white)](https://openai.com) [![RAG](https://img.shields.io/badge/RAG-FF1493?logo=graphql&logoColor=white)](https://github.com) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org) [![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-5C2D91?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/microsoft-copilot-studio/)
+![Product Management](https://img.shields.io/badge/Product%20Management-0078D7?logo=azuredevops&logoColor=white) ![Ecosystems](https://img.shields.io/badge/Ecosystems-2ECC71?logo=treehouse&logoColor=white) ![Growth & Adoption](https://img.shields.io/badge/Growth%20%26%20Adoption-F39C12?logo=chartdotjs&logoColor=white) ![Enterprise Workflows](https://img.shields.io/badge/Enterprise%20Workflows-8E44AD?logo=microsoft&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF6F61?logo=robotframework&logoColor=white) ![LLMs & Gen AI](https://img.shields.io/badge/LLMs%20%26%20Gen%20AI-00BFFF?logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF1493?logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-5C2D91?logo=microsoft&logoColor=white)
 
---- 
+---
 
 ## 🏅 Certifications
 
-[![EAG & EVA @ The School of AI](https://img.shields.io/badge/EAG%20%26%20EVA-The%20School%20of%20AI-0e76a8)](https://theschoolof.ai/#programs) [![Retention, Engagement & Growth @ Reforge](https://img.shields.io/badge/Retention%2C%20Engagement%20%26%20Growth-Reforge-F05A28)](https://www.reforge.com/)
+[![EAG & EVA @ The School of AI](https://img.shields.io/badge/EAG%20%26%20EVA-The%20School%20of%20AI-0e76a8?logo=book&logoColor=white)](https://theschoolof.ai/#programs) [![Retention, Engagement & Growth @ Reforge](https://img.shields.io/badge/Retention%2C%20Engagement%20%26%20Growth-Reforge-F05A28?logo=graph&logoColor=white)](https://www.reforge.com/)
 
-- 👯 Certifications: [EAG & EVA @ The School of AI](https://theschoolof.ai/#programs), [Retention, Engagement & Growth @ Reforge](https://www.reforge.com/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepjyotisaha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepjyoti.saha@gmail.com) 
