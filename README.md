@@ -39,7 +39,7 @@ The following projects implement agentic AI systems to demonstrate multi agent a
 ### 🤖 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
 
 #### 💡 Overview 
-Real‑time transparent overlay providing smart suggestions, notes and prompts during conversations. Graph-first, multi-agent engine for extensible assistive workflows.  
+Real‑time transparent overlay assistant to help during interviews, customer conversations and meetings.  
 
 #### ▶️ Watch Demo  
 <a href="https://youtu.be/J-dY5hfeac4">
@@ -54,7 +54,7 @@ Real‑time transparent overlay providing smart suggestions, notes and prompts d
 ### 🧠 Multi-purpose AI Assistant for Research, Coding & Queries
 
 #### 💡 Overview
-Multi-agent pipeline built on a NetworkX execution graph that coordinates specialized agents for file analysis, planning, retrieval and codegen. Suited for complex, multi-step queries. 
+Multi-purpose AI assistant which can help generate research reports, analyze files and generate code for HTML based games; implements a multi-agent architecture and can handle complex, multi-step queries.
 
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=A0kznksbOiU">
@@ -84,7 +84,7 @@ Browser automation agent (Chrome extension + backend) for multi-step web workflo
 ### 🖥️ Computer Use Agent
 
 #### 💡 Overview
-Desktop automation agent using CV + NLP to manipulate apps (launch, type, menu navigation) and perform multi-step UI tasks programmatically.
+Desktop automation agent using CV + NLP to operate apps (launch, type, menu navigation) and perform multi-step UI tasks programmatically.
 
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=aYlVvutoub4">
