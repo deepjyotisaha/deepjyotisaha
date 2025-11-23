@@ -18,16 +18,16 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 
 ## 📚 Featured Projects
 
-- [🚀 Agentic AI](#-agentic-ai)
+- [🚀 Agentic AI](#agentic-ai)
   - [ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings](#-shadowbot--undetectable-ai-overlay-assistant-for-interviews-customer-support--meetings)
   - [Multi-purpose AI Assistant for Research, Coding & Queries](#-multi-purpose-ai-assistant-for-research-coding--queries)
   - [Browser Use Agent](#-browser-use-agent)
-  - [Computer Use Agent](#-computer-use-agent)
+  - [Computer Use Agent](#%EF%B8%8F-computer-use-agent)
   - [Multi‑channel Agent with Telegram & Gmail MCP](#-multichannel-agent-with-telegram--gmail-mcp)
   - [Stock Research Assistant](#-stock-research-assistant)
-  - [GMail Newsletter Digest with LLMs - Browser Extension](#-gmail-newsletter-digest-with-llms---browser-extension)
-  - [GMail Triage Assistant with LLMs - Browser Extension](#-gmail-triage-assistant-with-llms---browser-extension)
-  - [GMail Bulk Actions with LLMs - Browser Extension](#-gmail-bulk-actions-with-llms---browser-extension)
+  - [GMail Newsletter Digest with LLMs](#-gmail-newsletter-digest-with-llms---browser-extension)
+  - [GMail Triage Assistant with LLMs](#-gmail-triage-assistant-with-llms---browser-extension)
+  - [GMail Bulk Actions with LLMs](#-gmail-bulk-actions-with-llms---browser-extension)
 - [🖼️ Computer Vision](#-computer-vision)
   - [Mask & Depthmap Prediction with ResNets](#-mask--depthmap-prediction-with-resnets)
   - [Custom Object Detection with YoloV3](#-custom-object-detection-with-yolov3)
