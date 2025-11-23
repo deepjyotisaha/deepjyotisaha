@@ -37,9 +37,10 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 The following projects implement agentic AI systems to demonstrate multi agent architecture, RAG pipeline, human-in-loop based, LLMs etc.
 
 ### 🤖 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
-```
+
+#### 💡 Overview 
 Real‑time transparent overlay providing smart suggestions, notes and prompts during conversations. Graph-first, multi-agent engine for extensible assistive workflows.  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://youtu.be/J-dY5hfeac4">
   <img src="https://img.youtube.com/vi/J-dY5hfeac4/0.jpg" alt="Demo thumbnail" width="400"/>
