@@ -39,7 +39,7 @@ The following projects implement agentic AI systems to demonstrate multi agent a
 ### 🪄 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
 Real‑time transparent overlay providing smart suggestions, notes and prompts during conversations. Graph-first, multi-agent engine for extensible assistive workflows.  
 Demo: [Watch demo](https://youtu.be/J-dY5hfeac4)  
-![Demo thumbnail]
+![Demo thumbnail](https://img.youtube.com/vi/J-dY5hfeac4/0.jpg)  
 Repo: https://github.com/deepjyotisaha/eag20/tree/master/ShadowBot-main
 
 ### 🧠 Multi-purpose AI Assistant for Research, Coding & Queries 
