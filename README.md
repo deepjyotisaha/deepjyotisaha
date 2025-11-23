@@ -18,22 +18,22 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 
 ## 📚 Featured Projects
 
-- [Agentic AI](#agentic-ai)
-  - [ShadowBot — Undetectable AI Overlay for Interviews & Meetings](#-shadowbot--undetectable-ai-overlay-for-interviews--meetings)
-  - [EAG18 — Agentic Query Assistant System](#-eag18--agentic-query-assistant-system)
-  - [Browser Use Agent](#browser-use-agent)
-  - [Computer Use Agent](#computer-use-agent)
-  - [Multi‑channel Agent — Telegram + Gmail](#multi-channel-agent-telegram-gmail)
-  - [Stock Research Assistant](#stock-research-assistant)
-  - [Gmail Newsletter Digest Extension](#gmail-newsletter-digest-extension)
-  - [Email Triage Assistant](#email-triage-assistant)
-  - [Gmail Extension for Bulk Actions](#gmail-extension-for-bulk-actions)
-- [Computer Vision](#computer-vision)
-  - [EVA4-15 — Mask & Depthmap Prediction](#eva4-15-mask-depthmap-prediction)
-  - [YoloV3 — Custom Object Detection](#yolov3-custom-object-detection)
+- [🚀 Agentic AI](#-agentic-ai)
+  - [ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings](#-shadowbot--undetectable-ai-overlay-assistant-for-interviews-customer-support--meetings)
+  - [Multi-purpose AI Assistant for Research, Coding & Queries](#-multi-purpose-ai-assistant-for-research-coding--queries)
+  - [Browser Use Agent](#-browser-use-agent)
+  - [Computer Use Agent](#-computer-use-agent)
+  - [Multi‑channel Agent with Telegram & Gmail MCP](#-multichannel-agent-with-telegram--gmail-mcp)
+  - [Stock Research Assistant](#-stock-research-assistant)
+  - [GMail Newsletter Digest with LLMs - Browser Extension](#-gmail-newsletter-digest-with-llms---browser-extension)
+  - [GMail Triage Assistant with LLMs - Browser Extension](#-gmail-triage-assistant-with-llms---browser-extension)
+  - [GMail Bulk Actions with LLMs - Browser Extension](#-gmail-bulk-actions-with-llms---browser-extension)
+- [🖼️ Computer Vision](#-computer-vision)
+  - [Mask & Depthmap Prediction with ResNets](#-mask--depthmap-prediction-with-resnets)
+  - [Custom Object Detection with YoloV3](#-custom-object-detection-with-yolov3)
 ---
 
-## 🚀 Agentic AI
+## Agentic AI
 The following projects implement agentic AI systems to demonstrate multi agent architecture, RAG pipeline, human-in-loop based, LLMs etc.
 
 ### 🪄 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
@@ -66,7 +66,7 @@ Demo: [Watch demo](https://www.youtube.com/watch?v=AViGOt94KQ4)
 ![Demo thumbnail](https://img.youtube.com/vi/AViGOt94KQ4/0.jpg)  
 Repo: https://github.com/deepjyotisaha/eag8/tree/master/agent_e8
 
-### 📊 Stock Research Assistant - Browser Extension
+### 📊 Stock Research Assistant
 Chrome extension front-end + backend for real-time stock analysis, RAG-based document search and automated report generation (email integration supported).  
 Demo: [Watch demo](https://www.youtube.com/watch?v=ZpvHxjgI3KE)  
 ![Demo thumbnail](https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg)  
@@ -92,7 +92,7 @@ Repo: https://github.com/deepjyotisaha/eag1
 
 ---
 
-## 🖼️ Computer Vision
+## Computer Vision
 The following projects demonstrate concepts in Computer Vision.
 
 ### 🧩 Mask & Depthmap Prediction with ResNets
