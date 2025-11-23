@@ -53,9 +53,9 @@ Real‑time transparent overlay providing smart suggestions, notes and prompts d
 
 ### 🧠 Multi-purpose AI Assistant for Research, Coding & Queries
 
-```
+#### 💡 Overview
 Multi-agent pipeline built on a NetworkX execution graph that coordinates specialized agents for file analysis, planning, retrieval and codegen. Suited for complex, multi-step queries. 
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=A0kznksbOiU">
   <img src="https://img.youtube.com/vi/A0kznksbOiU/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -67,9 +67,10 @@ Multi-agent pipeline built on a NetworkX execution graph that coordinates specia
 ---
 
 ### 🌐 Browser Use Agent
-```
+
+#### 💡 Overview
 Browser automation agent (Chrome extension + backend) for multi-step web workflows: scraping, navigation, form automation and session tracing with real-time progress.
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=1jD2-7kZbGs">
   <img src="https://img.youtube.com/vi/1jD2-7kZbGs/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -81,9 +82,10 @@ Browser automation agent (Chrome extension + backend) for multi-step web workflo
 ---
 
 ### 🖥️ Computer Use Agent
-```
+
+#### 💡 Overview
 Desktop automation agent using CV + NLP to manipulate apps (launch, type, menu navigation) and perform multi-step UI tasks programmatically.
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=aYlVvutoub4">
   <img src="https://img.youtube.com/vi/aYlVvutoub4/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -95,9 +97,10 @@ Desktop automation agent using CV + NLP to manipulate apps (launch, type, menu n
 ---
 
 ### 📡 Multi‑channel Agent with Telegram & Gmail MCP
-```
+
+#### 💡 Overview
 Agent that communicates via Telegram (SSE) and delivers reports over Gmail (Gmail MCP server). Implements multi-channel conversational flows and automated report delivery.  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=AViGOt94KQ4">
   <img src="https://img.youtube.com/vi/AViGOt94KQ4/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -109,9 +112,10 @@ Agent that communicates via Telegram (SSE) and delivers reports over Gmail (Gmai
 ---
 
 ### 📊 Stock Research Assistant
-```
+
+#### 💡 Overview
 Chrome extension front-end + backend for real-time stock analysis, RAG-based document search and automated report generation (email integration supported).  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=ZpvHxjgI3KE">
   <img src="https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -123,9 +127,10 @@ Chrome extension front-end + backend for real-time stock analysis, RAG-based doc
 ---
 
 ### ✉️ GMail Newsletter Digest with LLMs
-```
+
+#### 💡 Overview
 Chrome extension + Python backend that identifies newsletters, summarizes content with Gemini AI and compiles a markdown digest for archiving/reading.  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=yuTBrcswA1M">
   <img src="https://img.youtube.com/vi/yuTBrcswA1M/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -137,9 +142,10 @@ Chrome extension + Python backend that identifies newsletters, summarizes conten
 ---
 
 ### 📨 GMail Triage Assistant with LLMs
-```
+
+#### 💡 Overview
 Chrome extension that auto-categorizes unread Gmail using Gemini AI into Delete / Read / Important buckets; supports custom rules and OAuth2.  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=m1kAjD7gnrI">
   <img src="https://img.youtube.com/vi/m1kAjD7gnrI/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -151,9 +157,10 @@ Chrome extension that auto-categorizes unread Gmail using Gemini AI into Delete 
 ---
 
 ### ✂️ GMail Bulk Actions with LLMs
-```
+
+#### 💡 Overview
 Browser extension to view unread emails, mark selected messages important/read, and bulk-delete remaining unread emails.  
-```
+
 #### ▶️ Watch Demo  
 <a href="https://www.youtube.com/watch?v=Qp4ok4VrMGU">
   <img src="https://img.youtube.com/vi/Qp4ok4VrMGU/0.jpg" alt="Demo thumbnail" width="400"/>
@@ -168,11 +175,9 @@ Browser extension to view unread emails, mark selected messages important/read, 
 The following projects demonstrate concepts in Computer Vision.
 
 ### 🧩 Mask & Depthmap Prediction with ResNets
-```
+
+#### 💡 Overview
 ResNet-inspired DNN that takes (image + background) and (background-only) pairs to predict foreground mask and depthmap. Dual-head architecture with task-specific losses.
-```  
-Demo / Results: model predictions and sample scores shown in repo.  
-Repo: 
 
 #### ▶️ View Results 
 <a href="https://github.com/deepjyotisaha85/eva4/tree/master/session15#results">
@@ -183,9 +188,10 @@ Repo:
 [![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha85/eva4/tree/master/session15)
 
 ### 🎯 Custom Object Detection with YoloV3
-```
+
+#### 💡 Overview
 Custom-trained YOLOv3 models detecting fighter jets, Dusty, aircraft carriers and battle tanks; includes annotated outputs and demo videos.
-```  
+
 #### ▶️ Watch Demo  
 
 ##### Dusty & Fighter Jet Detection
