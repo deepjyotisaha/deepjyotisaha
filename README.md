@@ -36,59 +36,130 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
 ## Agentic AI
 The following projects implement agentic AI systems to demonstrate multi agent architecture, RAG pipeline, human-in-loop based, LLMs etc.
 
-### 🪄 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
+### 🤖 ShadowBot — Undetectable AI Overlay Assistant for Interviews, Customer Support & Meetings
+```
 Real‑time transparent overlay providing smart suggestions, notes and prompts during conversations. Graph-first, multi-agent engine for extensible assistive workflows.  
-Demo: [Watch demo](https://youtu.be/J-dY5hfeac4)  
-![Demo thumbnail](https://img.youtube.com/vi/J-dY5hfeac4/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag20/tree/master/ShadowBot-main
+```
+#### ▶️ Watch Demo  
+<a href="https://youtu.be/J-dY5hfeac4">
+  <img src="https://img.youtube.com/vi/J-dY5hfeac4/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
 
-### 🧠 Multi-purpose AI Assistant for Research, Coding & Queries 
-Multi-agent pipeline built on a NetworkX execution graph that coordinates specialized agents for file analysis, planning, retrieval and codegen. Suited for complex, multi-step queries.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=A0kznksbOiU)  
-![Demo thumbnail](https://img.youtube.com/vi/A0kznksbOiU/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag18/tree/master/code
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag20/tree/master/ShadowBot-main)
+
+---
+
+### 🧠 Multi-purpose AI Assistant for Research, Coding & Queries
+
+```
+Multi-agent pipeline built on a NetworkX execution graph that coordinates specialized agents for file analysis, planning, retrieval and codegen. Suited for complex, multi-step queries. 
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=A0kznksbOiU">
+  <img src="https://img.youtube.com/vi/A0kznksbOiU/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag18/tree/master/code)
+
+---
 
 ### 🌐 Browser Use Agent
-Browser automation agent (Chrome extension + backend) for multi-step web workflows: scraping, navigation, form automation and session tracing with real-time progress.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=1jD2-7kZbGs)  
-![Demo thumbnail](https://img.youtube.com/vi/1jD2-7kZbGs/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag15/tree/master/code
+```
+Browser automation agent (Chrome extension + backend) for multi-step web workflows: scraping, navigation, form automation and session tracing with real-time progress.
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=1jD2-7kZbGs">
+  <img src="https://img.youtube.com/vi/1jD2-7kZbGs/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag15/tree/master/code)
+
+---
 
 ### 🖥️ Computer Use Agent
-Desktop automation agent using CV + NLP to manipulate apps (launch, type, menu navigation) and perform multi-step UI tasks programmatically.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=aYlVvutoub4)  
-![Demo thumbnail](https://img.youtube.com/vi/aYlVvutoub4/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag14a/tree/master/computer_agent
+```
+Desktop automation agent using CV + NLP to manipulate apps (launch, type, menu navigation) and perform multi-step UI tasks programmatically.
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=aYlVvutoub4">
+  <img src="https://img.youtube.com/vi/aYlVvutoub4/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag14a/tree/master/computer_agent)
+
+---
 
 ### 📡 Multi‑channel Agent with Telegram & Gmail MCP
+```
 Agent that communicates via Telegram (SSE) and delivers reports over Gmail (Gmail MCP server). Implements multi-channel conversational flows and automated report delivery.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=AViGOt94KQ4)  
-![Demo thumbnail](https://img.youtube.com/vi/AViGOt94KQ4/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag8/tree/master/agent_e8
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=AViGOt94KQ4">
+  <img src="https://img.youtube.com/vi/AViGOt94KQ4/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag8/tree/master/agent_e8)
+
+---
 
 ### 📊 Stock Research Assistant
+```
 Chrome extension front-end + backend for real-time stock analysis, RAG-based document search and automated report generation (email integration supported).  
-Demo: [Watch demo](https://www.youtube.com/watch?v=ZpvHxjgI3KE)  
-![Demo thumbnail](https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag7/tree/master/stock_research
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=ZpvHxjgI3KE">
+  <img src="https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag7/tree/master/stock_research)
+
+---
 
 ### ✉️ GMail Newsletter Digest with LLMs
+```
 Chrome extension + Python backend that identifies newsletters, summarizes content with Gemini AI and compiles a markdown digest for archiving/reading.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=yuTBrcswA1M)  
-![Demo thumbnail](https://img.youtube.com/vi/yuTBrcswA1M/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag3
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=yuTBrcswA1M">
+  <img src="https://img.youtube.com/vi/yuTBrcswA1M/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag3)
+
+---
 
 ### 📨 GMail Triage Assistant with LLMs
+```
 Chrome extension that auto-categorizes unread Gmail using Gemini AI into Delete / Read / Important buckets; supports custom rules and OAuth2.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=m1kAjD7gnrI)  
-![Demo thumbnail](https://img.youtube.com/vi/m1kAjD7gnrI/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag2
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=m1kAjD7gnrI">
+  <img src="https://img.youtube.com/vi/m1kAjD7gnrI/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag2)
+
+---
 
 ### ✂️ GMail Bulk Actions with LLMs
+```
 Browser extension to view unread emails, mark selected messages important/read, and bulk-delete remaining unread emails.  
-Demo: [Watch demo](https://www.youtube.com/watch?v=Qp4ok4VrMGU)  
-![Demo thumbnail](https://img.youtube.com/vi/Qp4ok4VrMGU/0.jpg)  
-Repo: https://github.com/deepjyotisaha/eag1
+```
+#### ▶️ Watch Demo  
+<a href="https://www.youtube.com/watch?v=Qp4ok4VrMGU">
+  <img src="https://img.youtube.com/vi/Qp4ok4VrMGU/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha/eag1)
 
 ---
 
@@ -96,17 +167,38 @@ Repo: https://github.com/deepjyotisaha/eag1
 The following projects demonstrate concepts in Computer Vision.
 
 ### 🧩 Mask & Depthmap Prediction with ResNets
-ResNet-inspired DNN that takes (image + background) and (background-only) pairs to predict foreground mask and depthmap. Dual-head architecture with task-specific losses.  
+```
+ResNet-inspired DNN that takes (image + background) and (background-only) pairs to predict foreground mask and depthmap. Dual-head architecture with task-specific losses.
+```  
 Demo / Results: model predictions and sample scores shown in repo.  
-Repo: https://github.com/deepjyotisaha85/eva4/tree/master/session15
+Repo: 
+
+#### ▶️ View Results 
+<a href="https://github.com/deepjyotisaha85/eva4/tree/master/session15#results">
+  <img src="https://github.com/deepjyotisaha85/eva4/blob/master/session15/assets/custom_model.png" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha85/eva4/tree/master/session15)
 
 ### 🎯 Custom Object Detection with YoloV3
-Custom-trained YOLOv3 models detecting fighter jets, Dusty, aircraft carriers and battle tanks; includes annotated outputs and demo videos.  
-Annotated image: https://github.com/deepjyotisaha85/eva4/blob/master/session13/opencvyolov3/table_annotated.png  
-Demo videos:  
-- Dusty & Fighter Jet Detection: https://www.youtube.com/watch?v=eJLIq9bR88Q  
-- Battle Tank Detection: https://www.youtube.com/watch?v=NiwNiGO4ud8  
-Repo: https://github.com/deepjyotisaha85/eva4
+```
+Custom-trained YOLOv3 models detecting fighter jets, Dusty, aircraft carriers and battle tanks; includes annotated outputs and demo videos.
+```  
+#### ▶️ Watch Demo  
+
+##### Dusty & Fighter Jet Detection
+<a href="https://www.youtube.com/watch?v=eJLIq9bR88Q">
+  <img src="https://img.youtube.com/vi/eJLIq9bR88Q/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+##### Battle Tank Detection"
+<a href="https://www.youtube.com/watch?v=NiwNiGO4ud8">
+  <img src="https://img.youtube.com/vi/NiwNiGO4ud8/0.jpg" alt="Demo thumbnail" width="400"/>
+</a>
+
+#### 📂 Explore Repository 
+[![Explore Github repo](https://img.shields.io/badge/Github-3776AB?logo=Github&logoColor=white)](https://github.com/deepjyotisaha85/eva4)
 
 ---
 
