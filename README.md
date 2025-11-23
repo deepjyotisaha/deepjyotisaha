@@ -72,19 +72,19 @@ Demo: [Watch demo](https://www.youtube.com/watch?v=ZpvHxjgI3KE)
 ![Demo thumbnail](https://img.youtube.com/vi/ZpvHxjgI3KE/0.jpg)  
 Repo: https://github.com/deepjyotisaha/eag7/tree/master/stock_research
 
-### ✉️ GMail Newsletter Digest with LLMs - Browser Extension
+### ✉️ GMail Newsletter Digest with LLMs
 Chrome extension + Python backend that identifies newsletters, summarizes content with Gemini AI and compiles a markdown digest for archiving/reading.  
 Demo: [Watch demo](https://www.youtube.com/watch?v=yuTBrcswA1M)  
 ![Demo thumbnail](https://img.youtube.com/vi/yuTBrcswA1M/0.jpg)  
 Repo: https://github.com/deepjyotisaha/eag3
 
-### 📨 GMail Triage Assistant with LLMs - Browser Extension
+### 📨 GMail Triage Assistant with LLMs
 Chrome extension that auto-categorizes unread Gmail using Gemini AI into Delete / Read / Important buckets; supports custom rules and OAuth2.  
 Demo: [Watch demo](https://www.youtube.com/watch?v=m1kAjD7gnrI)  
 ![Demo thumbnail](https://img.youtube.com/vi/m1kAjD7gnrI/0.jpg)  
 Repo: https://github.com/deepjyotisaha/eag2
 
-### ✂️ GMail Bulk Actions with LLMs - Browser Extension
+### ✂️ GMail Bulk Actions with LLMs
 Browser extension to view unread emails, mark selected messages important/read, and bulk-delete remaining unread emails.  
 Demo: [Watch demo](https://www.youtube.com/watch?v=Qp4ok4VrMGU)  
 ![Demo thumbnail](https://img.youtube.com/vi/Qp4ok4VrMGU/0.jpg)  
