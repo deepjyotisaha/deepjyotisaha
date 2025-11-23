@@ -25,10 +25,10 @@ Currently: Agents Ecosystem with [M365 Copilot](https://learn.microsoft.com/en-u
   - [Computer Use Agent](#%EF%B8%8F-computer-use-agent)
   - [Multi‑channel Agent with Telegram & Gmail MCP](#-multichannel-agent-with-telegram--gmail-mcp)
   - [Stock Research Assistant](#-stock-research-assistant)
-  - [GMail Newsletter Digest with LLMs](#-gmail-newsletter-digest-with-llms)
+  - [GMail Newsletter Digest with LLMs](#%EF%B8%8F-gmail-newsletter-digest-with-llms)
   - [GMail Triage Assistant with LLMs](#-gmail-triage-assistant-with-llms)
-  - [GMail Bulk Actions with LLMs](#-gmail-bulk-actions-with-llms)
-- [🖼️ Computer Vision](#-computer-vision)
+  - [GMail Bulk Actions with LLMs](#%EF%B8%8F-gmail-bulk-actions-with-llms)
+- [🖼️ Computer Vision](#computer-vision)
   - [Mask & Depthmap Prediction with ResNets](#-mask--depthmap-prediction-with-resnets)
   - [Custom Object Detection with YoloV3](#-custom-object-detection-with-yolov3)
 ---
